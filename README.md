@@ -1,2 +1,11 @@
 # Business Project Requirements
- react
+ 
+ Imagine you're tasked with creating a product list page for an e-commerce website with the following requirements:
+
+ - [x] Display a list of products with their names, prices, and images.
+ - [x] Allow users to filter products by category.
+ - [x] Enable sorting of products by price (low to high ,high to low ).
+ - [x] Implement a search bar to search for products by name.
+
+
+
